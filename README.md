@@ -47,6 +47,10 @@ I strive to improve every day, learning new techniques and exploring tools that 
 
 ## 📩 Connect with Me
 
+---
+
+![Sonic](https://i.pinimg.com/originals/a5/78/82/a57882e3a22392d25d14885d54b656b6.gif)
+
 🔹 **LinkedIn:** [Héctor Benito Águila](https://www.linkedin.com/in/hector-benito-aguila-660952293/)  
 🔹 **Email:** [hecttor.ben@gmail.com](mailto:hecttor.ben@gmail.com)  
 🔹 **Portfolio:** [ArtStation - Heclo](https://www.artstation.com/heclo)  
