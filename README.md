@@ -1,56 +1,57 @@
-# 🎨 ¡Hola! Soy **HecloArt**
+# 🎨 Hi! I'm **HecloArt**
 
-## 🌟 Sobre Mí
+## 🌟 About Me
 
-¡Bienvenido a mi perfil! Soy un apasionado del **arte y la tecnología**, con gran entusiasmo por aprender sobre la industria de la **animación y los videojuegos**. Mi sueño es explorar este mundo de primera mano, contribuir con mi creatividad y, algún día, vivir de ello. 🚀
-
----
-
-## 🎭 Áreas de Interés
-
-✨ **Concept Art** - Creación de mundos, personajes e ideas visuales.  
-🎬 **Animación** - Dar vida a personajes e historias.  
-💡 **Iluminación** - Crear atmósferas impactantes a través de la luz.  
-🎨 **Texturizado** - Dar realismo y detalle a los modelos 3D.  
+Welcome to my profile! I am passionate about **art and technology**, with great enthusiasm for learning about the **animation and video game industry**. My dream is to explore this world firsthand, contribute with my creativity, and one day, make a living from it.
 
 ---
 
-## 🎓 Educación
+## 🎭 Areas of Interest
 
-📌 **Ciclo de Grado Superior en Animación 3D/2D, Juegos y Entornos Interactivos** (2024 - Actualidad) - **CIFP José Luis Garci**.  
-📌 **Ciclo de Grado Superior en Gráfica Interactiva** (2022-2024) - **Artediez**.  
-
----
-
-## 💼 Experiencia Laboral
-
-🔹 **Intrö Works** - Prácticas de Grado Superior.  
+**🎨 Concept Art** - Creating worlds, characters, and visual ideas.  
+**🎬 Animation** - Bringing characters and stories to life.  
+**💡 Lighting** - Crafting impactful atmospheres through light.  
+**🖌️ Texturing** - Adding realism and detail to 3D models.  
 
 ---
 
-## 🛠️ Herramientas y Software
+## 🎓 Education
 
-🎭 **Modelado y Animación 3D:** Maya, Blender.  
-🎨 **Texturizado y Pintura Digital:** Substance Painter, Photoshop, Krita, Clip Studio Paint.  
-🎬 **Edición y Composición:** After Effects, Premiere Pro, DaVinci Resolve, Media Encoder.  
-🖌️ **Diseño y Prototipado:** Figma, FigJam, Illustrator, InDesign.  
-📷 **Fotografía y Retoque:** Lightroom.  
-💻 **Desarrollo Web y Código:** Dreamweaver, Visual Studio Code, SQLite.  
+📌 **Higher Degree in 3D/2D Animation, Games, and Interactive Environments** (2024 - Present) - **CIFP José Luis Garci**.  
+📌 **Higher Degree in Interactive Graphics** (2022-2024) - **Artediez**.  
 
 ---
 
-## 🚀 En constante aprendizaje
+## 💼 Work Experience
 
-Me esfuerzo por mejorar día a día, aprendiendo nuevas técnicas y explorando herramientas que potencien mi trabajo. Si tienes algún consejo, colaboración o simplemente quieres hablar sobre el mundo del arte y los videojuegos, ¡no dudes en contactarme! 😊
-
----
-
-## 📩 **Conéctate conmigo**
-
-🔹 💼 **LinkedIn:** [Héctor Benito Águila](https://www.linkedin.com/in/hector-benito-aguila-660952293/)  
-🔹 ✉️ **Email:** [hecttor.ben@gmail.com](mailto:hecttor.ben@gmail.com)  
-🔹 🎨 **Portfolio:** [ArtStation - Heclo](https://www.artstation.com/heclo)  
+🔹 **Intrö Works** - Higher Degree Internship.  
 
 ---
 
-💙 ¡Gracias por pasarte por aquí!
+## 🛠️ Tools & Software
+
+**🎭 3D Modeling and Animation:** Maya, Blender.  
+**🎨 Texturing and Digital Painting:** Substance Painter, Photoshop, Krita, Clip Studio Paint.  
+**🎬 Editing and Composition:** After Effects, Premiere Pro, DaVinci Resolve, Media Encoder.  
+**🖌️ Design and Prototyping:** Figma, FigJam, Illustrator, InDesign.  
+**📷 Photography and Retouching:** Lightroom.  
+**💻 Web Development and Coding:** Dreamweaver, Visual Studio Code, SQLite.  
+
+---
+
+## 🚀 Constant Learning
+
+I strive to improve every day, learning new techniques and exploring tools that enhance my work. If you have any advice, collaboration opportunities, or just want to chat about the world of art and video games, feel free to reach out!
+
+---
+
+## 📩 Connect with Me
+
+🔹 **LinkedIn:** [Héctor Benito Águila](https://www.linkedin.com/in/hector-benito-aguila-660952293/)  
+🔹 **Email:** [hecttor.ben@gmail.com](mailto:hecttor.ben@gmail.com)  
+🔹 **Portfolio:** [ArtStation - Heclo](https://www.artstation.com/heclo)  
+
+---
+
+💙 Thanks for stopping by!
+
